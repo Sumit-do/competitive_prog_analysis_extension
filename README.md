@@ -1,3 +1,9 @@
+
+<img width="1888" height="899" alt="Screenshot (25)" src="https://github.com/user-attachments/assets/221f8958-dad5-4613-a2d2-a6e41c90d282" />
+
+
+<img width="1898" height="908" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/8d253f50-1444-4121-80f6-37aab070fcf6" />
+
 # 🧠 CP Metacognition
 
 A Chrome extension that tracks your **metacognitive thinking** while solving competitive programming problems on [Codeforces](https://codeforces.com) and [AtCoder](https://atcoder.jp).
